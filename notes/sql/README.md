@@ -2,6 +2,8 @@
 
 Document your SQL learning journey here. As you learn new concepts, add them to this folder.
 
+I'll be using `postgres` as my main SQL dialect, but feel free to note differences for other databases (MySQL, SQL Server, etc.)
+
 ## Suggested Files to Create:
 
 - `01-basics.md` - SELECT, WHERE, ORDER BY, LIMIT

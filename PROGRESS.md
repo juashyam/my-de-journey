@@ -40,13 +40,12 @@
 **Daily Log:**
 
 #### Day 1 - Tuesday, Dec 17, 2025
-- [ ] Morning session (1 hour): _____________
-- [ ] Evening session (1 hour): _____________
-- **What I learned:** 
-- **Code written:** 
+
+- **What I learned:** Setup PostgreSQL, basic SQL syntax (CREATE, INSERT, SELECT)
+- **Code written:** Practiced basic SQL commands
 - **Problems solved:** 
-- **Challenges:** 
-- **Notes:** 
+- **Challenges:** Setting up postgres in Docker, Practiced calculated columns, named columns in SELECT, String and Math operations
+- **Notes:** ./notes/sql/01-basics.md created with initial SQL commands.
 
 #### Day 2 - Wednesday, Dec 18, 2025
 - [ ] Morning session: _____________
