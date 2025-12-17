@@ -1,0 +1,85 @@
+# Data Engineering Learning Journey - .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+*.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (large datasets)
+*.csv
+*.parquet
+*.json
+*.xml
+data/
+datasets/
+!sample_data/  # Keep sample data
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# AWS
+.aws/
+*.pem
+
+# Docker
+docker-compose.override.yml
+
+# Airflow
+airflow.db
+airflow.cfg
+logs/
+webserver_config.py
+
+# Secrets
+secrets/
+credentials/
+*.key
+*.pem
+*.crt
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.log
+
+# Personal notes you don't want to share
+private_notes/
