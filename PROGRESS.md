@@ -39,7 +39,7 @@
 
 **Daily Log:**
 
-#### Day 1 - Tuesday, Dec 17, 2025
+#### Day 1 - Wednesday, Dec 17, 2025
 
 - **What I learned:** Setup PostgreSQL, basic SQL syntax (CREATE, INSERT, SELECT)
 - **Code written:** Practiced basic SQL commands
@@ -47,58 +47,12 @@
 - **Challenges:** Setting up postgres in Docker, Practiced calculated columns, named columns in SELECT, String and Math operations
 - **Notes:** ./notes/sql/01-basics.md created with initial SQL commands.
 
-#### Day 2 - Wednesday, Dec 18, 2025
-- [ ] Morning session: _____________
-- [ ] Evening session: _____________
-- **What I learned:** 
-- **Code written:** 
+#### Day 2 - Thursday, Dec 18, 2025
+- **What I learned:** Filtering Records with WHERE, basic operators
+- **Code written:** Practiced SELECT with WHERE clauses
 - **Problems solved:** 
-- **Challenges:** 
-- **Notes:** 
-
-#### Day 3 - Thursday, Dec 19, 2025
-- [ ] Morning session: _____________
-- [ ] Evening session: _____________
-- **What I learned:** 
-- **Code written:** 
-- **Problems solved:** 
-- **Challenges:** 
-- **Notes:** 
-
-#### Day 4 - Friday, Dec 20, 2025
-- [ ] Morning session: _____________
-- [ ] Evening session: _____________
-- **What I learned:** 
-- **Code written:** 
-- **Problems solved:** 
-- **Challenges:** 
-- **Notes:** 
-
-#### Day 5 - Saturday, Dec 21, 2025
-- [ ] Extended session: _____________
-- **What I learned:** 
-- **Code written:** 
-- **Problems solved:** 
-- **Challenges:** 
-- **Notes:** 
-
-#### Day 6 - Sunday, Dec 22, 2025
-- [ ] Extended session: _____________
-- **What I learned:** 
-- **Code written:** 
-- **Problems solved:** 
-- **Challenges:** 
-- **Notes:** 
-
-#### Day 7 - Monday, Dec 23, 2025
-- [ ] Review day: _____________
-- **Weekly Review:**
-  - **Total hours this week:** 
-  - **Key learnings:** 
-  - **Wins:** 
-  - **Struggles:** 
-  - **Confidence level (1-10):** 
-  - **Next week preparation:** 
+- **Challenges:** 5 / SQL 50 in LeetCode, 8 / HackerRank SQL Basics
+- **Notes:** ./notes/sql/02-filtering-records-pgcli-tricks.md created with filtering records examples.
 
 ---
 
