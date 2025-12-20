@@ -43,16 +43,30 @@
 
 - **What I learned:** Setup PostgreSQL, basic SQL syntax (CREATE, INSERT, SELECT)
 - **Code written:** Practiced basic SQL commands
-- **Problems solved:** 
+- **Problems solved:**
 - **Challenges:** Setting up postgres in Docker, Practiced calculated columns, named columns in SELECT, String and Math operations
 - **Notes:** ./notes/sql/01-basics.md created with initial SQL commands.
 
 #### Day 2 - Thursday, Dec 18, 2025
 - **What I learned:** Filtering Records with WHERE, basic operators
 - **Code written:** Practiced SELECT with WHERE clauses
-- **Problems solved:** 
+- **Problems solved:**
 - **Challenges:** 5 / SQL 50 in LeetCode, 8 / HackerRank SQL Basics
 - **Notes:** ./notes/sql/02-filtering-records-pgcli-tricks.md created with filtering records examples.
+
+#### Day 3 - Friday, Dec 19, 2025
+- **What I learned:** Auto Generated Columns, Primary Keys, Foreign Key, pgloader for data migration
+- **Code written:**
+- **Problems solved:**
+- **Challenges:**
+- **Notes:** ./notes/sql/03-constraints-and-data-migration.md created with notes on constraints and data migration.
+
+#### Day 4 - Saturday, Dec 20, 2025
+- **What I learned:** Joins, Group By, Aggregate Functions, HAVING
+- **Code written:**
+- **Problems solved:**
+- **Challenges:**
+- **Notes:** ./notes/sql/04-joins-group-by-aggregates.md created with notes on joins and aggregates.
 
 ---
 

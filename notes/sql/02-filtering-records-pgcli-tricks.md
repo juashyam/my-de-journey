@@ -1,4 +1,4 @@
-# SQL Basics
+# Filtering Records and pgCLI Tricks
 
 ## What is it?
 Pratice with WHERE clause to filter records based on conditions, UPDATE, DELETE and other basic operations.
