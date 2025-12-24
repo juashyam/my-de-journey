@@ -68,6 +68,13 @@
 - **Challenges:**
 - **Notes:** ./notes/sql/04-joins-group-by-aggregates.md created with notes on joins and aggregates.
 
+#### Day 5 - Tuesday, Dec 23, 2025
+- **What I learned:** Setup a bigger sample dataset, practiced queries with JOINs and GROUP BY, Union, Intersect, Except
+- **Code written:**
+- **Problems solved:**
+- **Challenges:**
+- **Notes:** ./notes/sql/05-bigger-dataset-union-intersect-except.md created with notes on bigger datasets and set operations.
+
 ---
 
 ### Week 2: Advanced SQL - Part 1 (Dec 24-30, 2025)
@@ -79,7 +86,13 @@
 - [ ] Practice real-world scenarios
 
 **Daily Log:**
-_[Fill in as you progress]_
+
+#### Day 6 - Wednesday, Dec 24, 2025
+- **What I learned:** Subqueries, Correlated Subqueries, SELECT without FROM, GREATEST, LEAST functions, CASE statements, DISTINCT, PgAdmin setup
+- **Code written:**
+- **Problems solved:**
+- **Challenges:**
+- **Notes:** ./notes/sql/06-subqueries-distinct-case.md created with notes on subqueries and CASE statements.
 
 ---
 
